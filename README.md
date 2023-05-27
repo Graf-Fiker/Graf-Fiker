@@ -8,7 +8,7 @@
 ---
 #### Welcome to my GitHub page! I'm Graf_Fiker, a multidisciplinary developer with a passion for C++, JavaScript, Lua, CSS, and HTML. While I currently focus on graphic design, I bring a diverse skill set to create visually stunning and functional projects. Explore my repositories to witness my expertise in software development, web design, and graphic design. Let's collaborate and create something amazing together!
 ---
-![image - alt text](https://media.discordapp.net/attachments/935566148441878560/1070148035381837854/maint.png)
+![image - alt text](https://media.discordapp.net/attachments/935566148441878560/1035170288352112670/ezgif.com-gif-maker.gif?width=449&height=449)
 <!--
 **Graf-Fiker/Graf-Fiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
