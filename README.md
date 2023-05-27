@@ -4,7 +4,7 @@
   </a>
 </p>
 
-About me:
+ABOUT ME:
 ---
 Welcome to my GitHub page! I'm Graf_Fiker, a multidisciplinary developer with a passion for C++, JavaScript, Lua, CSS, and HTML. While I currently focus on graphic design, I bring a diverse skill set to create visually stunning and functional projects. Explore my repositories to witness my expertise in software development, web design, and graphic design. Let's collaborate and create something amazing together!
 ---
