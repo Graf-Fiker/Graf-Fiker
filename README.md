@@ -2,7 +2,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=i=js,html,css,bootstrap,blender,lua,cpp," />
   </a>
-os</p>
+</p>
 
 ## ABOUT ME:
 ---
