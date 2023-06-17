@@ -6,7 +6,7 @@
 
 ## ABOUT ME:
 ---
-#### Welcome to my GitHub page! I'm Graf_Fiker, a multidisciplinary developer with a passion for C++, JavaScript, Lua, CSS, and HTML. While I currently focus on graphic design, I bring a diverse skill set to create visually stunning and functional projects. Explore my repositories to witness my expertise in software development, web design, and graphic design. Let's collaborate and create something amazing together!
+#### Hey there! Welcome to my laid-back GitHub page! I'm Graf_Fiker, a chill and versatile developer who loves working with C++, JavaScript, Lua, CSS, and HTML. I'm really into graphic design at the moment, but I have a wide range of skills that I bring to the table, allowing me to craft both visually captivating and highly functional projects
 ---
 ![image - alt text](https://media.discordapp.net/attachments/935566148441878560/1035170288352112670/ezgif.com-gif-maker.gif?width=449&height=449)
 <!--
